@@ -469,7 +469,7 @@ that can detect changes in input pins and track their history. This is useful fo
     8 (               // For each pin
       /i P            // Poll pin i
     )
-    t @ /N            // Wait interval t
+    t @ /N            // Wait interval `t`, @ is a sudo for t( ), do nothing t times
   )
 ;
 
