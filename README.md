@@ -1,5 +1,11 @@
-# hash
 # MINT Version 2.0 Hashing Functions
+```
+A hash table, a clever device,
+Stores data with optimal nice.
+With a key as a guide,
+The data’s inside,
+A quick lookup, oh so precise!
+```
 
 ## Overview
 
